@@ -1,4 +1,4 @@
-# SAM (Security Assistance Machine) | *Mission: Save The President*
+# SAM (Security Assistance Machine)
 
 ![SAM Main Menu](SAM.gif)
 
