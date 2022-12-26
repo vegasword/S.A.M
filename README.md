@@ -1,8 +1,8 @@
-# SAM (Security Assistance Machine)
+# S.A.M (Security Assistance Machine)
 
-![SAM Main Menu](SAM.gif)
+![S.A.M Main Menu](SAM.gif)
 
-SAM (Security Assistance Machine) is a stealth game made on Unreal Engine playable PC and on PS4 (we've done some builds on a dev kit).
+S.A.M (Security Assistance Machine) is a stealth game made on Unreal Engine playable PC and on PS4 (we've done some builds on a dev kit).
 
 You play as SAM, a robot tasked of saving the President, taken hostage from a terrorist group know as the *Unleashed*.
 
